@@ -1,0 +1,28 @@
+{
+  "name": "mednoob-multilanguagediscordbotexample-javascript-eris",
+  "version": "1.0.0",
+  "description": "Discord Bot made with Javascript using Eris",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mednoob/multi-language-discord-bot-examples.git"
+  },
+  "keywords": [
+    "discord",
+    "bot",
+    "javascript",
+    "eris"
+  ],
+  "author": "Mednoob",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Mednoob/multi-language-discord-bot-examples/issues"
+  },
+  "homepage": "https://github.com/Mednoob/multi-language-discord-bot-examples#readme",
+  "dependencies": {
+    "eris": "^0.13.3"
+  }
+}
