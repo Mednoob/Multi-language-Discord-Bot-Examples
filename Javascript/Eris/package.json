@@ -23,6 +23,7 @@
   },
   "homepage": "https://github.com/Mednoob/multi-language-discord-bot-examples#readme",
   "dependencies": {
-    "eris": "^0.13.3"
+    "eris": "^0.13.3",
+    "pretty-ms": "^7.0.0"
   }
 }
