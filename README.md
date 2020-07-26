@@ -24,3 +24,6 @@ If you want to contribute to this project:
 - Create pull request
 
 This project welcome all people who wanted to contribute and give their own idea to the project.
+
+
+...
