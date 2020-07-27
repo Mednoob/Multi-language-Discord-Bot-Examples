@@ -51,5 +51,5 @@ client.on("message", message => {                                               
         .setColor("#299646")                                                                                        //
         message.channel.send(uptimeembed)                                                                           //
     }                                                                                                               //
-})                                                                                                                  //
+})                                                                                                                  //med_update=1
 client.login(token);                                                                                                //The Client log in to discord
