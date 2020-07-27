@@ -59,5 +59,5 @@ client.on("messageCreate", (msg) => {                                           
             }                                                                                                                                                                                                //
         })                                                                                                                                                                                                   //
     }                                                                                                                                                                                                        //
-});                                                                                                                                                                                                          //
+});                                                                                                                                                                                                          //med_update=1
 client.connect();                                                                                                                                                                                            //The bot log in to Discord
