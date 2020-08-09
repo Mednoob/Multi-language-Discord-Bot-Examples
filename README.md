@@ -12,6 +12,7 @@ A Project that contains Basic Discord Bots from various of Languages and Libs/Wr
 **C#**
 
 1. Discord.Net (Coming Soon. Being typed right now.)
+2. DSharpPlus
 
 More Languages and Libs **Coming Soon!**
 
