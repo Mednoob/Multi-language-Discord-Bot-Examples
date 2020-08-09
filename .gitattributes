@@ -1,9 +1,0 @@
-# Auto detect text files and perform LF normalization
-* text=auto
-
-*.js linguist-detectable=true
-*.js linguist-language=Javascript
-*.csharp linguist-detectable=true
-*.cs linguist-language=CSharp
-*.python linguist-detectable=true
-*.java linguist-detectable=true
