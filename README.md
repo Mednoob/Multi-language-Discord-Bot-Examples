@@ -14,6 +14,10 @@ A Project that contains Basic Discord Bots from various of Languages and Libs/Wr
 1. Discord.Net
 2. DSharpPlus
 
+**Java**
+
+1. JDA (By @hansputera / @hansputera415)
+
 More Languages and Libs **Coming Soon!**
 
 
