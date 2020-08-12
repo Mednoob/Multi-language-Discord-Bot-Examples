@@ -16,7 +16,7 @@ A Project that contains Basic Discord Bots from various of Languages and Libs/Wr
 
 **Java**
 
-1. JDA (By @hansputera / @hansputera415)
+1. JDA (By [@hansputera](https://github.com/hansputera) / [@hansputera415](https://github.com/hansputera415))
 
 More Languages and Libs **Coming Soon!**
 
