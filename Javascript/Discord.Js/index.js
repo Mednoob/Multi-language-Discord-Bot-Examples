@@ -44,12 +44,12 @@ client.on("message", message => {                                               
             .setFooter("Discord.Js Example")                                                                        //Embed Footer
             message.channel.send(helpembed);                                                                        //Send the Embed Message
     }                                                                                                               //
-    if(message.content === prefix + "uptime"){                                                                      //Uptime command explanation coming soon
-        const uptimecmduptime = prettyms(client.uptime, { verbose:true })                                           //
-        const uptimeembed = new Discord.MessageEmbed()                                                              //
-        .setDescription("**Bot Uptime:** " + uptimecmduptime)                                                       //
-        .setColor("#299646")                                                                                        //
-        message.channel.send(uptimeembed)                                                                           //
+    if(message.content === prefix + "uptime"){                                                                      //If the message includes prefix and uptime
+        const uptimecmduptime = prettyms(client.uptime, { verbose:true })                                           //Create a new variable that includes the bot uptime. Variable name is `uptimecmduptime`
+        const uptimeembed = new Discord.MessageEmbed()                                                              //Create a new Embed Message
+        .setDescription("**Bot Uptime:** " + uptimecmduptime)                                                       //Embed Description including bot uptime in it
+        .setColor("#299646")                                                                                        //Embed Color
+        message.channel.send(uptimeembed)                                                                           //Send the Embed Message
     }                                                                                                               //
-})                                                                                                                  //med_update=1
+})                                                                                                                  //
 client.login(token);                                                                                                //The Client log in to discord
