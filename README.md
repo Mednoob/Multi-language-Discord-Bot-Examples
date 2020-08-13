@@ -32,4 +32,4 @@ If you want to contribute to this project:
 This project welcome all people who wanted to contribute and give their own idea to the project.
 
 
-...
+Copyright 2020 Ahmad "Mednoob" Yaqdhan
