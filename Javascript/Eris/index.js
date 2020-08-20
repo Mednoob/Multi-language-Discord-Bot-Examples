@@ -39,8 +39,8 @@ client.on("messageCreate", (msg) => {                                           
                         inline: true                                                                                                     //First Embed Field Inline Boolean. Set to 'true' if you want to put the field in the same line as before. Set to 'false' if you want to put the field in a new line.
                     },                                                                                                                   //
                     {                                                                                                                    //Second Embed Field Properties
-                        name: "More Commands",                                                                                           //Second Embed Field Name
-                        value: "Coming Soon!",                                                                                           //Second Embed Field Context/Value
+                        name: "Statistic Commands",                                                                                      //Second Embed Field Name
+                        value: "`uptime`",                                                                                               //Second Embed Field Context/Value
                         inline: false                                                                                                    //Second Embed Field Inline Boolean. Set to 'true' if you want to put the field in the same line as before. Set to 'false' if you want to put the field in a new line.
                     }                                                                                                                    //
                 ],                                                                                                                       //
