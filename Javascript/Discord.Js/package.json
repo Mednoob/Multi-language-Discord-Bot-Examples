@@ -4,9 +4,9 @@
   "description": "",
   "main": "index.js",
   "dependencies": {
-    "discord.js": "^12.2.0",
+    "discord.js": "^12.3.1",
     "fs": "0.0.1-security",
-    "pretty-ms": "^7.0.0"
+    "pretty-ms": "^7.0.1"
   },
   "devDependencies": {},
   "scripts": {
