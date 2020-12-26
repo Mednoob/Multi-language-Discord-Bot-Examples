@@ -2,8 +2,8 @@ import discord
 from discord.ext import commands
 import os
 
-prefix = "!!!"
-token = "NTA0MjI5MzE1MzQxMzIwMjEz.W87uJA.wlmNKyAOCGh3rAOmywfRSN96TyM"
+prefix = ""
+token = ""
 
 client = commands.Bot(command_prefix = prefix)
 client.remove_command("help") #remove the help command from internal so i can use mednoob help command in client.command
