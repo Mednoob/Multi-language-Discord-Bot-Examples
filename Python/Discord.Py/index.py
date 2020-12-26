@@ -14,12 +14,10 @@ async def on_message(message):
         return
 
     if message.content == prefix + "help":
-        helpembed = discord.Embed()
-        helpembed.title = "Help Command"
-        helpembed.description = "List of **Commands** of this bot.\nLook **Below**."
-        helpembed.add_field(name="Basic Commands", value="`help`", inline=True)
-        helpembed.add_field(name="More Commands", value="Coming soon!", inline=False)
-        helpembed.set_footer(text="Discord.Py Example")
-        await message.channel.send(embed=helpembed)
+        helpembed = discord.Embed(title = "Help Command", color = message.author, description = "List of **Commands** of this bot.\nLook **Below**.")
+        helpembed.add_field(name = "Basic Commands", value = "`help`", inline = True)
+        helpembed.add_field(name = "More Commands", value = "Coming soon!", inline = False)
+        helpembed.set_footer(text = "Discord.Py Example")
+        await message.channel.send(embed = helpembed)
 
 client.run(token)
